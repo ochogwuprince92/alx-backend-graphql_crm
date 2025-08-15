@@ -1,0 +1,9 @@
+asgiref==3.8.1
+Django==5.0.8
+django-filter==24.2
+graphene==3.3
+graphene-django==3.2.1
+graphql-core==3.2.3
+promise==2.3
+sqlparse==0.5.1
+text-unidecode==1.3
